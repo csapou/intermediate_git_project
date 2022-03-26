@@ -1,2 +1,7 @@
 #Made a new repo github followed this https://www.youtube.com/watch?v=6HsZMl-qV5k
 git remote -v
+### 1. Branch Management
+##Force push to a remote
+git push -f #Replacing the remote with the local also if changes have been made
+git push --force #The same
+#Should not use these, 
